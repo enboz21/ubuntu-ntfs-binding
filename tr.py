@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 
 # Şu anda giriş yapan kullanıcının ismini alır
