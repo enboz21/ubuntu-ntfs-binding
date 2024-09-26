@@ -1,6 +1,6 @@
 # ubuntu-ntfs-binding
 
-## türkçe
+## Türkçe
 
 Bu proje genellikle ntfs formatlı taşınabilir sürücüleri sisteme tanıtılmasını salamaktadır
 
