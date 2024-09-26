@@ -69,7 +69,7 @@ After the project is installed, you can open the included Turkish or English `.s
 
 ### 1. Example
 
-    ./tr-launcher.sh
+    ./en-starter.sh
 
 If you want to access it without interruption from the terminal, run the `install.sh` file.
 
