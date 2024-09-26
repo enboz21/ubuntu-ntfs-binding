@@ -27,7 +27,4 @@ Projenizi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları
 proje kurulduktan sonra isterseniz içindeki türkçe veya ingilizce .sh dosyalarını açıp dilinize uygun kullanabilirsiniz
 
 ### Örnek
-
-    ```bash
     tr-başlatıcı.sh
-    ```
