@@ -37,6 +37,9 @@ eyer terminalden durmaksızın erişmek isterseniz install.sh dosyasını çalı
 
     ./install.sh
 çalıştırmak içinde binding yazmanız yeterli terminale
+### Not
+eyer binding dışında bir isimlendirme isterseniz 2. örnekdeki işlemin 
+ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi değiştirebilirsiniz
 
 ## English
 
@@ -76,9 +79,6 @@ If you want to access it without interruption from the terminal, run the `instal
 
 To run it, simply type `binding` in the terminal.
 
-### Not
-eyer binding dışında bir isimlendirme isterseniz 2. örnekdeki işlemin 
-ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi değiştirebilirsiniz
 ### Note
 
 If you prefer a different name than `binding`, you can rename the `binding` file inside the `.local/bin` folder after performing the operation in the second example.
