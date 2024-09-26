@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import os
 
-
 # Get the username of the currently logged-in user
 user = os.getlogin()
 
