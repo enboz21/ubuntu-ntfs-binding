@@ -4,8 +4,6 @@ Bu proje genellikle ntfs formatlı taşınabilir sürücüleri sisteme tanıtıl
 
 ## Başlangıç
 
-git clone https://github.com/enboz21/ubuntu-ntfs-binding.git
-
 ### Gereksinimler
 
 - **Python 3.x**: Python yüklü olmalıdır.
@@ -17,20 +15,19 @@ Projenizi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları
 
 1. Bu reposu klonlayın:
     ```bash
-    git clone https://github.com/kullanici_adiniz/proje_adi.git
+    git clone https://github.com/enboz21/ubuntu-ntfs-binding.git
     ```
 2. Proje dizinine gidin:
     ```bash
-    cd proje_adi
-    ```
-3. Gereksinimleri yükleyin:
-    ```bash
-    pip install -r requirements.txt
+    cd ubuntu-ntfs-binding
     ```
 
 ## Kullanım
 
-Projenizin nasıl kullanılacağına dair örnekler ve açıklamalar verin:
+proje kurulduktan sonra isterseniz içindeki türkçe veya ingilizce .sh dosyalarını açıp dilinize uygun kullanabilirsiniz
 
-```bash
-python main.py
+### Örnek
+
+    ```bash
+    tr-başlatıcı.sh
+    ```
