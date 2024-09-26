@@ -27,4 +27,10 @@ Projenizi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları
 proje kurulduktan sonra isterseniz içindeki türkçe veya ingilizce .sh dosyalarını açıp dilinize uygun kullanabilirsiniz
 
 ### Örnek
-    tr-başlatıcı.sh
+
+    ./tr-başlatıcı.sh
+
+eyer terminalden durmaksızın erişmek isterseniz install.sh dosyasını çalıştırın
+### Örnek
+
+    ./install.sh
