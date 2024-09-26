@@ -1,16 +1,15 @@
 # ubuntu-ntfs-binding
-# Proje Adı
 
-Projenizin kısa bir açıklaması burada yer alabilir. Bu bölüm, projenizin ne işe yaradığını ve hangi problemi çözdüğünü özetlemelidir.
+Bu proje genellikle ntfs formatlı taşınabilir sürücüleri sisteme tanıtılmasını salamaktadır
 
 ## Başlangıç
 
-Bu bölüm, projenizi çalıştırmak için gerekli olan adımları içerir.
+git clone https://github.com/enboz21/ubuntu-ntfs-binding.git
 
 ### Gereksinimler
 
 - **Python 3.x**: Python yüklü olmalıdır.
-- **Kütüphaneler**: Kullanılan kütüphaneler listesi (örneğin, `numpy`, `pandas`).
+- **Kütüphaneler**: os
 
 ### Kurulum
 
