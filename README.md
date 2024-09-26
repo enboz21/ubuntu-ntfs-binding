@@ -76,11 +76,9 @@ If you want to access it without interruption from the terminal, run the `instal
 
 To run it, simply type `binding` in the terminal.
 
-## Note
-
-If you prefer a different name than `binding`, you can rename the `binding` file inside the `.local/bin` folder after performing the operation in the second example.
-
-
 ### Not
 eyer binding dışında bir isimlendirme isterseniz 2. örnekdeki işlemin 
 ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi değiştirebilirsiniz
+### Note
+
+If you prefer a different name than `binding`, you can rename the `binding` file inside the `.local/bin` folder after performing the operation in the second example.
