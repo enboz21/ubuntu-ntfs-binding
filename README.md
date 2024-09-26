@@ -26,11 +26,16 @@ Projenizi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları
 
 proje kurulduktan sonra isterseniz içindeki türkçe veya ingilizce .sh dosyalarını açıp dilinize uygun kullanabilirsiniz
 
-### Örnek
+### 1. Örnek
 
     ./tr-başlatıcı.sh
 
 eyer terminalden durmaksızın erişmek isterseniz install.sh dosyasını çalıştırın
-### Örnek
+### 2. Örnek
 
     ./install.sh
+çalıştırmak içinde binding yazmanız yeterli terminale
+
+## Not
+eyer binding dışında bir isimlendirme isterseniz 2. örnekdeki işlemin 
+ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi deyiştirin
