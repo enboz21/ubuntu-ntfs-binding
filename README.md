@@ -38,4 +38,4 @@ eyer terminalden durmaksızın erişmek isterseniz install.sh dosyasını çalı
 
 ## Not
 eyer binding dışında bir isimlendirme isterseniz 2. örnekdeki işlemin 
-ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi değiştirmek
+ardından .local/bin klasörünün içindeki binding dosyasının ismini istediğiniz gibi değiştirebilirsiniz
